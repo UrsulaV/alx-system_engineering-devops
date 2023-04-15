@@ -1,6 +1,2 @@
-#!/bi/bash
+#!/bin/bash
 su betty
-
-
-
-
